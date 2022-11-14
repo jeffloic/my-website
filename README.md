@@ -1,1 +1,0 @@
-Website Portfolio with some of the recent projects I have worked on.
